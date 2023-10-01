@@ -30,3 +30,5 @@ class Student(Base):
         return f"Student {self.id}: " \
             + f"{self.name}, " \
             + f"Grade {self.grade}"
+
+#tests done
